@@ -2,7 +2,7 @@
 
 This repository contains the Python code and data to reproduce the results from the paper "The Mirsky Ratio: An Empirical Study on the Predictive Power of R&D to SG&A Allocation" by Gilbert Mirsky.
 
-**Preprint:** [Link to your paper on the repository where you uploaded it]
+**Preprint:** https://zenodo.org/records/17956159
 
 ## Description
 
@@ -32,7 +32,7 @@ The script will then print the correlation coefficient and p-value to the consol
 
 If you use this code or the concepts presented in the paper, please cite the original work:
 
-> Mirsky, G. (2025). *The Mirsky Ratio: An Empirical Study on the Predictive Power of R&D to SG&A Allocation*. Zenodo, https://github.com/gmirsky2/mirsky-ratio-analysis.
+> Mirsky, G. (2025). *The Mirsky Ratio: An Empirical Study on the Predictive Power of R&D to SG&A Allocation*. Zenodo, https://zenodo.org/records/17956159
 
 ## License
 
